@@ -9,6 +9,7 @@ export default function Home() {
     <>
       <div>
         <h1>Welcome</h1>
+        <p>Good day!!!</>
       </div>
     </>
   )
